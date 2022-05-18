@@ -1,9 +1,3 @@
-<div>
-<!--   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/otavio-bueno/"><i>Otavio Bueno</i></a> </h1> -->
-  </a><br>
-</div>
-
-
 <div align="center">
   <a href="https://github.com/jotaviobueno">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jotaviobueno&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
