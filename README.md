@@ -3,7 +3,7 @@
 <h4 align="center">Langs</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=js,sql,mongo,ts,nodejs,html,css'/>
+    <img src='https://skillicons.dev/icons?i=js,mysql,mongo,ts,nodejs,html,css'/>
   </a>
 </p>
 
