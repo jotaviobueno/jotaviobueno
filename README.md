@@ -1,16 +1,16 @@
 <h3 align="center">Hi, I'm Otavio... always learning something new!</h2>
 
-<h4 align="center">Langs</h4>
+<h4 align="center">Langs / framework </h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=js,mysql,mongo,ts,nodejs,html,css'/>
+    <img src='https://skillicons.dev/icons?i=js,mysql,mongo,ts,nodejs,html,css,react,'/>
   </a>
 </p>
 
 <h4 align="center">Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src='https://skillicons.dev/icons?i=vscode,git,github'/>
+    <img src='https://skillicons.dev/icons?i=vscode,git,github,docker,aws,vscode'/>
   </a>
 </p>
 
