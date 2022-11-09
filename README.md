@@ -3,7 +3,7 @@
 <h4 align="center">Langs / framework </h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=js,mysql,mongo,ts,nodejs,html,css,https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg'/>
+    <img src='https://skillicons.dev/icons?i=js,mysql,mongo,ts,nodejs,html,css', "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   </a>
 </p>
 
