@@ -4,7 +4,7 @@
 <p align="center">
   <a href='https://skillicons.dev'>
     <img src='https://skillicons.dev/icons?i=js,mysql,mongo,ts,nodejs,html,css'/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg">
   </a>
 </p>
 
