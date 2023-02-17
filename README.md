@@ -1,5 +1,7 @@
 <h3 align="center">Hi, I'm Otavio... always learning something new!</h2>
 
+![](https://komarev.com/ghpvc/?username=jotaviobueno&color=green)
+
 <h4 align="center">Langs / framework </h4>
 <p align="center">
   <a href='https://skillicons.dev'>
