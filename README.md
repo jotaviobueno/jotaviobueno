@@ -1,7 +1,5 @@
 <h3 align="center">Hi, I'm Otavio... always learning something new!</h2>
 
-![](https://komarev.com/ghpvc/?username=jotaviobueno&color=green)
-
 <h4 align="center">Langs / framework </h4>
 <p align="center">
   <a href='https://skillicons.dev'>
@@ -31,10 +29,12 @@ target="_blank">
 <img src='https://skillicons.dev/icons?i=linkedin'
   </a>
 </p>
-
+    
 <h3 align="center">GitHub stats</h3>
 <div align="center">
   <a href='https://github.com/jotaviobueno'>
   <img height="120em" src='https://github-readme-stats.vercel.app/api?username=jotaviobueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true'/>
   <img height="120em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jotaviobueno&layout=compact&langs_count=7&theme=tokyonight'/>
 </div>
+  
+ ![](https://komarev.com/ghpvc/?username=jotaviobueno&color=green)
