@@ -50,18 +50,11 @@
 </p>
 
 ## 📈 Stats
-<details>
-<summary> Top Langs (GIT tracking) </summary>
 
-<div> 
-<img height="120em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jotaviobueno&layout=compact&langs_count=7&theme=tokyonight'/>
-</div>
-</details>
 
 <details>
 <summary> GitHub Stats</summary>
 
-<div > 
-<img height="120em" src='https://github-readme-stats.vercel.app/api?username=jotaviobueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true'/>
-</div>
-</details>
+[![OtavioBueno GitHub stats](https://github-readme-stats.vercel.app/api?username=jotaviobueno)](https://github.com/jotaviobueno)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaviobueno&layout=compact&langs_count=10)](https://github.com/jotaviobueno)
+[![OtavioBueno](http://github-readme-streak-stats.herokuapp.com?user=jotaviobueno&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://github.com/jotaviobueno)
