@@ -1,60 +1,45 @@
-<div align="center">
-<p>
-<a href="https://github.com/jotaviobueno" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/otavio-bueno/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:h" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+## Hello, Devs!! 👋
+### O meu nome é Otavio Bueno, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+- 🔰  Sou de Porto Socorro/SP, Brasil
+- 🏦 Atualmente trabalho como Desenvolvedor Back-end Júnior na MKT-System
+##
+
+#### Estou aprendendo sobre:
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://dev.java/learn/)
+[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=spring"/>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+[<img height="48px" width="48px" alt="Icone tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://v2.tailwindcss.com/docs)
+##
+
+#### Tenho conhecimento em:
+[<img height="48px" width="48px" alt="Icone Nodejs" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en/docs)
+[<img height="48px" width="48px" alt="Icone Typescript" src="https://skillicons.dev/icons?i=typescript"/>](https://www.typescriptlang.org/docs/)
+[<img height="48px" width="48px" alt="Icone Nestjs" src="https://skillicons.dev/icons?i=nestjs"/>](https://docs.nestjs.com/)
+[<img height="48px" width="48px" alt="Icone Javascript" src="https://skillicons.dev/icons?i=javascript"/>](https://devdocs.io/javascript/)
+[<img height="48px" width="48px" alt="Icone Jest" src="https://skillicons.dev/icons?i=jest"/>](https://jestjs.io/pt-BR/docs)
+[<img height="48px" width="48px" alt="Icone Graphql" src="https://skillicons.dev/icons?i=graphql"/>](https://graphql.org/learn/)
+
+[<img height="48px" width="48px" alt="Icone aws" src="https://skillicons.dev/icons?i=aws"/>](https://docs.aws.amazon.com/)
+
+[<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://dev.mysql.com/doc/)
+[<img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/docs/)
+[<img height="48px" width="48px" alt="Icone MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/docs/)
+[<img height="48px" width="48px" alt="Icone prisma" src="https://skillicons.dev/icons?i=prisma"/>](https://www.prisma.io/docs)
+
+##
+
+#### Como entrar em contato comigo:
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/otavio-bueno/)
+<a href="mailto:joseotaviocbueno@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+##
+
+#### Estatísticas:
+<div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaviobueno&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=jotaviobueno&show_icons=true&include_all_commits=true&theme=radical"/>
+<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=jotaviobueno&amp;theme=radical">
 </div>
-
-## 🛠 My stack
-
-### ⌨ Languages and Frameworks
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-0076be?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-<img src="https://img.shields.io/badge/expresso.ts-00FF00?style=for-the-badge&logo=yarn&logoColor=white" />
-</p>
-
-
-### 🗄 Database
-<p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1e4c67?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreeSQL-1e4c67?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-</p>
-
-### ⚒️ Tools 
-<p>
-  <img alt="Webstorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" /> 
-  <img alt="Vscode" src="https://img.shields.io/badge/vscode-0000ff?style=for-the-badge&logo=Xcode&logoColor=white" /> 
-</p>
-
-
-### Others
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-</p>
-
-## 📈 Stats
-
-
-<details>
-<summary> GitHub Stats</summary>
-
-[![OtavioBueno GitHub stats](https://github-readme-stats.vercel.app/api?username=jotaviobueno)](https://github.com/jotaviobueno)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaviobueno&layout=compact&langs_count=10)](https://github.com/jotaviobueno)
-[![OtavioBueno](http://github-readme-streak-stats.herokuapp.com?user=jotaviobueno&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://github.com/jotaviobueno)
