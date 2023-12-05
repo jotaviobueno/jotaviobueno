@@ -3,7 +3,7 @@
 ## Hello, Devs!! 👋
 ### O meu nome é Otavio Bueno, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Porto Socorro/SP, Brasil
+- 🔰  Sou de Socorro/SP, Brasil
 ##
 
 #### Estou aprendendo sobre:
