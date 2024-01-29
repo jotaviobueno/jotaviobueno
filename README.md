@@ -7,13 +7,13 @@
 ##
 
 #### Estou aprendendo sobre:
-[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://dev.java/learn/)
 [<img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=spring"/>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-[<img height="48px" width="48px" alt="Icone tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://v2.tailwindcss.com/docs)
 ##
 
 #### Tenho conhecimento em:
+[<img height="48px" width="48px" alt="Icone tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://v2.tailwindcss.com/docs)
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone Nodejs" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en/docs)
 [<img height="48px" width="48px" alt="Icone Typescript" src="https://skillicons.dev/icons?i=typescript"/>](https://www.typescriptlang.org/docs/)
 [<img height="48px" width="48px" alt="Icone Nestjs" src="https://skillicons.dev/icons?i=nestjs"/>](https://docs.nestjs.com/)
