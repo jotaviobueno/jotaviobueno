@@ -41,3 +41,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaviobueno&layout=compact&langs_count=7&theme=radical"/>
 <img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=jotaviobueno&amp;theme=radical">
 </div>
+
+[![wakatime](https://wakatime.com/badge/user/d4ee6717-e8db-4192-a6f7-abb330d28b3e.svg)](https://wakatime.com/@d4ee6717-e8db-4192-a6f7-abb330d28b3e)
+
